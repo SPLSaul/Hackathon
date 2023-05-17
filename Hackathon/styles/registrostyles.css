@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+.lblRegistro{    
+    margin: 30px 0 0 400px;
+    font-size: 50px; 
+    display: inline-block;
+}
+.entryUsername,.lblIngresoUser,.lblIngresoPass,.entryPass,.lblingresoCorreo,.entryCorreo{
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 5px;
+    border: none;
+}
+.btnRegistro{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    font-size: 20px;
+    padding: 5px 15px 5px 15px;
+    font-weight: bold;
+    background-color: blueviolet;
+    margin: 20px 0 0 490px;
+    border-radius: 3px;
+    border: none;
+    display: inline-block;
+}

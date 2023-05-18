@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+.LogoMusic {
+    float: left;
+    width: 30vh;
+    margin: 80px 0 0 20px;
+    border-radius: 10vh;
+}
+
+.appName {
+    color: white;
+    display: inline-block;
+    font-size: 60px;
+    text-align: left;
+    margin-left: -200px;
+}
+
+.Home {
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+    clear: both;
+}
+
+.Favorite {
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+    clear: both;
+}
+
+.Browse {
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+    clear: both;
+}
+
+.Library {
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+    clear: both;
+}
